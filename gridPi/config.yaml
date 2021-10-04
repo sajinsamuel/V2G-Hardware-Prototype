@@ -1,0 +1,9 @@
+#grid config file
+
+NodeName: IOUPartyA
+NodeIP: 3.87.175.168
+NodePort: 10070
+SanctionsBody: O=SanctionsBody,L=London,C=GB
+VehicleParty: O=IOUPartyB,L=d,C=FR
+
+
